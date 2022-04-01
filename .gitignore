@@ -1,3 +1,17 @@
+# Obsidian
+# .obsidian
+.obsidian/workspace
+
+# LogSeq
+# .logseq
+.logseq/.recycle
+.logseq/bak
+
+
+# macOS
+.DS_Store
+
+
 # Logs
 logs
 *.log
