@@ -5,7 +5,7 @@ Tohle je **nový domov** pro všechny tvoje *osobní* i *sdílené* poznámky.
 1. [Použij GitHub šablonu](https://github.com/jan-beranek/personal-wiki/generate) a vytvoř si z ní svůj vlastní centrální repozitář pro poznámky.
 
 Všechny sdílené poznámky z jiných repozitářů si sem pak přidávej jako git submoduly.
-- Tesena-wiki už je tu pro tebe takto připravena :-)
+  - Tesena-wiki už je tu pro tebe takto připravena :-)
 
 ## Synchronizace
 2. Svůj nový repozitář si **naklonuješ** do počítače s přepínači `--recurse-submodules --remote-submodules` a vlezeš dovnitř pomocí `cd`. Například takto:
