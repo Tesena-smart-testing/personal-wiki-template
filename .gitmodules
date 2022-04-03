@@ -1,3 +1,3 @@
 [submodule "Tesena-wiki"]
 	path = Tesena-wiki
-	url = ../Tesena-smart-testing/Tesena-wiki.git
+	url = ../../Tesena-smart-testing/Tesena-wiki.git
