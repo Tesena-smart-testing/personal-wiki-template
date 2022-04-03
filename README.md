@@ -9,8 +9,10 @@ Všechny sdílené poznámky z jiných repozitářů si sem pak přidávej jako 
 
 ## Synchronizace
 2. Pokud si svůj nový repozitář **naklonuješ** do počítače s přepínačem `--recursive`
+	- například takto:
+	`git clone --recursive git@tesena-github.com:jan-beranek/personal-wiki.git`
 3. a **otevřeš** ho v aplikaci Obsidian, 
-   - pak se předkonfigurovaný Obsidian Git plug-in postará o automatickou synchronizaci v obou směrech a to včetně vnořených submodulů.
-   - (Takže naučit se pracovat s Gitem můžeš opět odložit na jindy... a nebo tu může být hned teď první užitečná věc, kterou v Tesena-wiki také najdeš.)
+    - pak se předkonfigurovaný Obsidian Git plug-in postará o automatickou synchronizaci v obou směrech a to včetně vnořených submodulů.
+    - (Takže naučit se pracovat s Gitem můžeš opět odložit na jindy... a nebo tu může být hned teď první užitečná věc, kterou v Tesena-wiki také najdeš.)
 4. **Hotovo**? Fakt? Jo!
    - Tak bež něco dělat a piš si u toho poznámky :-)
