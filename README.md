@@ -10,7 +10,7 @@ Všechny sdílené poznámky z jiných repozitářů si sem pak přidávej jako 
 ## Synchronizace
 2. Svůj nový repozitář si **naklonuješ** do počítače s přepínači `--recurse-submodules --remote-submodules` a vlezeš dovnitř pomocí `cd`. Například takto:
 	```
-	git clone --recursive git@github.com:jan-beranek/personal-wiki.git
+	git clone --recurse-submodules --remote-submodules git@github.com:jan-beranek/personal-wiki.git
 	cd personal-wiki
 	```
 	- (popřípadě v běžně naklonovaném repozitáři dodatečně stáhneš submoduly:
