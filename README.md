@@ -2,7 +2,7 @@
 
 Tohle je **nový domov** pro všechny tvoje *osobní* i *sdílené* poznámky.
 
-1. [Použij GitHub šablonu](https://github.com/jan-beranek/personal-wiki/generate) a vytvoř si z ní svůj vlastní centrální repozitář pro poznámky.
+1. [Použij GitHub šablonu](https://github.com/Tesena-smart-testing/personal-wiki-template/generate) a vytvoř si z ní svůj vlastní centrální repozitář pro poznámky.
 
 Všechny sdílené poznámky z jiných repozitářů si sem pak přidávej jako [[Git Submodules]].
   - [[Tesena-wiki/README|Tesena-wiki]] (https://github.com/Tesena-smart-testing/Tesena-wiki) už je tu pro tebe takto připravena :-)
