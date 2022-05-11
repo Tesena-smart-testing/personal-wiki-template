@@ -1,5 +1,12 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "alwaysUpdateLinks": true
+  "showFrontmatter": false,
+  "smartIndentList": false,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "personal-wiki-template/Tesena-wiki/02 - Notes",
+  "attachmentFolderPath": "personal-wiki-template/Tesena-wiki/03 - Files",
+  "showUnsupportedFiles": true
 }
