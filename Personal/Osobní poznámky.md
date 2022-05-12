@@ -1,0 +1,1 @@
+Všechny soubory, které jsou umístěné v této složce, ale i kdekoliv v kořenovém adresáři mimo složku Tesena-wiki, jsou tvé osobní a nesdílí se do společných poznámek. 
