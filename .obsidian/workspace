@@ -7,8 +7,13 @@
         "id": "bbb01eb8994bda0f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/README.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/README.md"
+              }
             }
           },
           {
@@ -108,6 +116,8 @@
   },
   "active": "bbb01eb8994bda0f",
   "lastOpenFiles": [
+    "Personal/README.md",
+    "README.md",
     "Untitled.md",
     "pokus.md"
   ]
