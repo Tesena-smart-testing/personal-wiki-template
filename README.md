@@ -76,6 +76,7 @@ Připraveny jsou dvě šablony:
 > ![[navod_wiki_sablona2.png]]
 
 Šablony lze používat díky pluginu Templater, který nejen použije připravený text do nové poznámky, ale také umí zpracovávat jednoduché části kódu pro šablony, to znamená, že umí doplnit např. aktuální čas, název souboru, přesunout kurzor někam do textu (místo aby byl na konci) a mnoho dalších i komplikovanějších věcí. Kód vypadá například takhle <%tp.file.title%>, což je segment pro doplnění názvu souboru, ve kterém šablonu používám. S tímto si, teseňáku, nemusíš dělat starosti, uvádím to jen na vědomí. Občas se totiž stane, že při načítání šablony chviličku trvá, než si plugin šablonu převede tak, jak má a tento text se na obrazovce může objevit. Stačí chvilku počkat.
+
 > [!bug] Pokud se kód nepřevádí, zkontroluj si, že needituješ přímo šablonu. Pokud ne, může být problém v pluginu nebo šabloně a v tom případě kontaktuj správce wiki.
 
 ## Kde se dozvíš víc?

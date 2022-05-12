@@ -6,7 +6,7 @@
   "trashOption": "local",
   "alwaysUpdateLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "personal-wiki-template/Tesena-wiki/02 - Notes",
-  "attachmentFolderPath": "personal-wiki-template/Tesena-wiki/03 - Files",
+  "newFileFolderPath": "Tesena-wiki/02 - Notes",
+  "attachmentFolderPath": "Tesena-wiki/03 - Files",
   "showUnsupportedFiles": true
 }
