@@ -2,7 +2,7 @@
 
 Ahoj Teseňáku. 
 
-Tohle je **nový domov** pro všechny tvoje *osobní* i *sdílené* poznámky. Pokud se na tohle díváš na GitHubu, nainstaluj si prosím Wiki s Obsidianem dle tohoto návodu:  [[Tesena-wiki/README]].
+Tohle je **nový domov** pro všechny tvoje *osobní* i *sdílené* poznámky. Pokud se na tohle díváš na GitHubu, nainstaluj si prosím Wiki s Obsidianem dle tohoto návodu:  [[Tesena-wiki/README]] https://github.com/Tesena-smart-testing/Tesena-wiki.
 
 
 > [!tldr] TL;DR
