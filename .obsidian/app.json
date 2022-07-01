@@ -5,8 +5,8 @@
   "smartIndentList": false,
   "trashOption": "local",
   "alwaysUpdateLinks": true,
-  "newFileLocation": "folder",
-  "newFileFolderPath": "Tesena-wiki/02 - Notes",
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "attachmentFolderPath": "Tesena-wiki/03 - Files",
   "showUnsupportedFiles": true
 }
